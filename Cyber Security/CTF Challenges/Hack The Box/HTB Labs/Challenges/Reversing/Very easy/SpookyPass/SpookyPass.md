@@ -155,6 +155,6 @@ HTB{un0bfu5c4t3d_5tr1ng5}
 
 This was a beginner-friendly reverse engineering challenge. Since the binary was **not stripped** and the password was stored as a plaintext string, we were able to retrieve the flag using just basic Linux tools — no decompilers needed.
 
-[[Simple Encryptor]]
+[[README]] 
 
 ---

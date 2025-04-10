@@ -1,3 +1,5 @@
+# 🔐 HTB Challenge: Simple Encryptor
+
 **Category:** Reversing  
 **Difficulty:** Easy  
 **Flag:** `HTB{vRy_s1MplE_F1LE3nCryp0r}`  
@@ -184,3 +186,5 @@ gcc -o decrypt decrypt.c
 ## 🏷️ Tags
 
 `#htb` `#ctf` `#reversing` `#elf` `#decrypt` `#simplecrypto` `#writeup` 
+
+[[README]]

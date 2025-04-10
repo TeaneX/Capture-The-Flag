@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Simple Encryptor/Simple Encryptor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Simple Encryptor"
             }
           }
         ]
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Simple Encryptor/Simple Encryptor.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Simple Encryptor"
             }
           },
           {
@@ -215,12 +215,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "213e630b1e7780ef",
+  "active": "82046091f4276885",
   "lastOpenFiles": [
-    "README.md",
-    "2025-04-10.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/SpookyPass/SpookyPass.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Simple Encryptor/Simple Encryptor.md",
+    "README.md",
+    "2025-04-10.md",
     "Cyber Security/CTF Challenges/PICO CTF/Pico.md",
     "Cyber Security/CTF Challenges/PICO CTF",
     "Cyber Security/Untitled",
