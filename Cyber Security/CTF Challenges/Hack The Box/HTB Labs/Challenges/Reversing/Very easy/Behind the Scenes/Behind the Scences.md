@@ -121,7 +121,7 @@ hexeditor ./behindthescenes
 
 📍 **Note:**
 
-🔧 Pressed `Ctrl + U` at this screen to **undo the changes I had made** and return to the original binary view.
+🔧 Pressed `Ctrl + W` at this screen to **undo the changes I had made** and return to the original binary view.
 
 **Output:**
 
