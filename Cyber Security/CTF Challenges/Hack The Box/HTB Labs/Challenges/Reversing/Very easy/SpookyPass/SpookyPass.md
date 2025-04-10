@@ -1,3 +1,4 @@
+# 👨‍💻HTB Challenge: SpookyPass
 **Category:** Reverse Engineering  
 **Difficulty:** Easy  
 **Flag:** `HTB{un0bfu5c4t3d_5tr1ng5}`
