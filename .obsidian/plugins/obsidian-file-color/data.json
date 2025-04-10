@@ -1,0 +1,32 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "wVKQWBgv5iklxLRhdSZY3",
+      "name": "White",
+      "value": "#ffffff"
+    },
+    {
+      "id": "0iEse8HpZdwAsgflJrv-Z",
+      "name": "Green",
+      "value": "#008000"
+    },
+    {
+      "id": "OV9UPB-zwBIA-tmauzIUL",
+      "name": "Yellow",
+      "value": "#ffff00"
+    },
+    {
+      "id": "rfgELA1zbV-wO89PV_f1o",
+      "name": "Red",
+      "value": "#ff0000"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy",
+      "color": "OV9UPB-zwBIA-tmauzIUL"
+    }
+  ]
+}
