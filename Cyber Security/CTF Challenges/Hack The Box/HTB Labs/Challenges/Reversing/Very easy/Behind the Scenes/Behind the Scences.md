@@ -117,7 +117,7 @@ hexeditor ./behindthescenes
 ```
 
 
-![[Behind the Scenes 1 .png]]
+![[Behind the Scenes 1 .png|000]]
 
 📍 **Note:**
 
@@ -125,15 +125,15 @@ hexeditor ./behindthescenes
 
 **Output:**
 
-![[Behind the Scenes 2.png]]
+![[Behind the Scenes 2.png|000]]
 
 📝 Message:  *"Go here to Search for Text string from here."* 
 
-![[Behind the Scenes 3 .png]]
+![[Behind the Scenes 3 .png|000]]
 
 📝 Message: *"Then, type Challenge in the Text String."*
 
-![[Behind the Scenes 4.png]]
+![[Behind the Scenes 4.png|000]]
 
 📝 Message: *"You can see the flag on the top right corner."*
 
