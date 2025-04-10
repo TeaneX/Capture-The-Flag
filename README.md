@@ -16,10 +16,11 @@ Cyber Security/ ├── CTF Challenges/ │ ├── Hack The Box/ │ │ �
 
 ## 🧩 What’s Inside
 
-| Challenge       | Type        | Status     |
-|----------------|-------------|------------|
-| 🔐 Simple Encryptor | Reversing | ✅ Completed |
-| 🎃 SpookyPass       | Reversing | ✅ Completed |
+| Challenge               | Type      | Status      |
+| ----------------------- | --------- | ----------- |
+| 🔐 Simple Encryptor     | Reversing | ✅ Completed |
+| 🎃 SpookyPass           | Reversing | ✅ Completed |
+| 🕵️‍♂️Behind the Scenes | Reversing | ✅ Completed |
 
 ---
 
