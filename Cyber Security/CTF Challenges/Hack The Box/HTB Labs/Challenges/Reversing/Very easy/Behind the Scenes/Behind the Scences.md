@@ -3,7 +3,7 @@
 **Category:** Reverse Engineering  
 **Difficulty:**  VERY EASY
 **Platform:**  Hack The Box  
-**Flag:** `HTB{Itz_0nLy_UD2}
+**Flag:**  `HTB{Itz_0nLy_UD2}`
 
 ---
 
