@@ -1,4 +1,4 @@
-# HTB - Behind the Scenes 🕵️‍♂️
+# HTB Challenge - Behind the Scenes 🕵️‍♂️
 
 **Category:** Reverse Engineering  
 **Difficulty:**  VERY EASY
