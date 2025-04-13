@@ -165,3 +165,16 @@ HTB{un1c0Rn_0R_C4p5T0nE_0R_qeMU_5ubPR0cE55_0r_F0r90TTen_0Ld_R45berry_4NyTH1N9_BU
 HTB{un1c0Rn_0R_C4p5T0nE_0R_qeMU_5ubPR0cE55_0r_F0r90TTen_0Ld_R45berry_4NyTH1N9_BUt_n0_M4nu4LLy}
 
 ```
+## 🛠️ Tools Used
+
+- `Python`
+
+ ## 🔑Key Takeaways
+
+- **Understanding ARM instruction set is critical.**
+    
+- **Knowing how to debug ARM binaries on x86** (QEMU, GDB-multiarch) **is essential.**
+    
+- **Capstone helps to simulate and reverse engineer instruction flow.**
+    
+- **Bitwise and arithmetic transformations are common tricks in these challenges.**
