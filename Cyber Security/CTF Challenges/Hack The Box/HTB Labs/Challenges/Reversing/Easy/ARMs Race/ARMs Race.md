@@ -1,4 +1,4 @@
-# HTB Challenge - ARMs Race 👾🏍
+# 🏍HTB Challenge - ARMs Race Write-up
 
 - **Category:** Reversing
 - **Difficulty:** EASY
@@ -178,3 +178,9 @@ HTB{un1c0Rn_0R_C4p5T0nE_0R_qeMU_5ubPR0cE55_0r_F0r90TTen_0Ld_R45berry_4NyTH1N9_BU
 - **Capstone helps to simulate and reverse engineer instruction flow.**
     
 - **Bitwise and arithmetic transformations are common tricks in these challenges.**
+
+## 🏷️ Tags
+
+#ReverseEngineering #ARMsRace #ARMs #BinaryExploitation #HackTheBox #CTF 
+
+[[README]]

@@ -1,4 +1,4 @@
-# 🔐 HTB Challenge: Simple Encryptor
+# 🔐 HTB Challenge: Simple Encryptor Write-up
 
 **Category:** Reversing  
 **Difficulty:** Easy  
@@ -182,9 +182,9 @@ gcc -o decrypt decrypt.c
 ```
 
 ---
-
 ## 🏷️ Tags
 
-`#htb` `#ctf` `#reversing` `#elf` `#decrypt` `#simplecrypto` `#writeup` 
+#ReverseEngineering #SimpleEncryptor #BinaryExploitation #HackTheBox #CTF 
+ 
 
 [[README]]

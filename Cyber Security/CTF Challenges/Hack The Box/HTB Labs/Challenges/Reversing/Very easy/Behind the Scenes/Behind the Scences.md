@@ -1,4 +1,4 @@
-# HTB Challenge - Behind the Scenes 🕵️‍♂️
+# 🕵️‍♂️ HTB Challenge - Behind the Scenes Write-up
 
 **Category:** Reverse Engineering  
 **Difficulty:**  VERY EASY
@@ -169,7 +169,7 @@ HTB{Itz_0nLy_UD2}
 ---
 ## 🏷️ Tags
 
-#ReverseEngineering #ReverseEngineering #BinaryExploitation #HackTheBox #CTF 
+#ReverseEngineering #Behindthescences #BinaryExploitation #HackTheBox #CTF  
 
 [[README]]
 
