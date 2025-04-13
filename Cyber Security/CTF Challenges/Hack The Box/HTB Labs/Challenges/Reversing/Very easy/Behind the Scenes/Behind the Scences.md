@@ -1,9 +1,9 @@
 # 🕵️‍♂️ HTB Challenge - Behind the Scenes Write-up
 
-**Category:** Reverse Engineering  
-**Difficulty:**  VERY EASY
-**Platform:**  Hack The Box  
-**Flag:**  `HTB{Itz_0nLy_UD2}`
+- **Category:** Reverse Engineering  
+- **Difficulty:**  VERY EASY
+- **Platform:**  Hack The Box  
+- **Flag:**  `HTB{Itz_0nLy_UD2}`
 
 ---
 

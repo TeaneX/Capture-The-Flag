@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Easy/ARMs Race/ARMs Race.md",
+                "file": "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/SpookyPass/SpookyPass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARMs Race"
+              "title": "SpookyPass"
             }
           }
         ]
@@ -217,10 +217,10 @@
   },
   "active": "7e570a493d260caf",
   "lastOpenFiles": [
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/SpookyPass/SpookyPass.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Simple Encryptor/Simple Encryptor.md",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Easy/ARMs Race/ARMs Race.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Behind the Scenes/Behind the Scences.md",
+    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Easy/ARMs Race/ARMs Race.md",
+    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/SpookyPass/SpookyPass.md",
     "README.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Easy/ARMs Race",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Easy",

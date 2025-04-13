@@ -1,10 +1,10 @@
 # 👨‍💻HTB Challenge: SpookyPass Write-up
 
-**Category:** Reverse Engineering  
-**Difficulty:** Easy  
-**Flag:** `HTB{un0bfu5c4t3d_5tr1ng5}`
-**Tools Used:** `unzip`,`file`,`string`,`bash` 
-**Platform:** Hack The Box
+- **Category:** Reverse Engineering  
+- **Difficulty:** Easy  
+- **Flag:** `HTB{un0bfu5c4t3d_5tr1ng5}`
+- **Tools Used:** `unzip`,`file`,`string`,`bash` 
+- **Platform:** Hack The Box
 
 ---
 

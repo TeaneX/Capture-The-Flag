@@ -1,10 +1,10 @@
 # 🔐 HTB Challenge: Simple Encryptor Write-up
 
-**Category:** Reversing  
-**Difficulty:** Easy  
-**Flag:** `HTB{vRy_s1MplE_F1LE3nCryp0r}`  
-**Tools Used:** `strings`, `file`, `nano`, `gcc`, custom `decrypt.c`  
-**Platform:** Hack The Box
+- **Category:** Reversing  
+- **Difficulty:** Easy  
+- **Flag:** `HTB{vRy_s1MplE_F1LE3nCryp0r}`  
+- **Tools Used:** `strings`, `file`, `nano`, `gcc`, custom `decrypt.c`  
+- **Platform:** Hack The Box
 
 ---
 
