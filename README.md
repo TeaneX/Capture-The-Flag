@@ -1,6 +1,11 @@
 # 🧠 CTF Vault — *Break it, Hack it, Own it.*
 
+<<<<<<< HEAD
 ![Hacker Banner](https://i.imgur.com/JR1yt0F.jpeg)
+=======
+![Hacker Banner](https://camo.githubusercontent.com/514f682a0b43a9422eee5d9e1d81ef2b7c866247575a96f1080913870d87f0e9/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633)
+
+>>>>>>> origin/main
 
 Welcome to my personal Capture The Flag (CTF) vault — built with 🖋️ **Obsidian**, synced with 🔄 **GitHub**, and fueled by late-night caffeine and terminal wizardry.  
 This space holds every exploit, cracked cipher, and broken binary that came my way. Dive in, learn, hack, repeat.
@@ -24,4 +29,8 @@ This space holds every exploit, cracked cipher, and broken binary that came my w
 
 ---
 
+<<<<<<< HEAD
 ### 👊 Hack the Planet. Stay curious, stay ethical. 
+=======
+### 👊 Hack the Planet. Stay curious, stay ethical.
+>>>>>>> origin/main
