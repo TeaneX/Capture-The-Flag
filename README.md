@@ -24,4 +24,4 @@ This space holds every exploit, cracked cipher, and broken binary that came my w
 
 ---
 
-### 👊 Hack the Planet. Stay curious, stay ethical.
+### 👊 Hack the Planet. Stay curious, stay ethical. 
