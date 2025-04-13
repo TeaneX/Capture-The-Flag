@@ -1,10 +1,10 @@
 # HTB Challenge - ARMs Race 👾🏍
 
-**Category:** Reversing
-**Difficulty:** EASY
-**Tools Used:** `Python`
-**Platform:** Hack The Box
-**Flag:** `HTB{un1c0Rn_0R_C4p5T0nE_0R_qeMU_5ubPR0cE55_0r_F0r90TTen_0Ld_R45berry_4NyTH1N9_BUt_n0_M4nu4LLy}`
+- **Category:** Reversing
+- **Difficulty:** EASY
+- **Tools Used:** `Python`
+- **Platform:** Hack The Box
+- **Flag:** `HTB{un1c0Rn_0R_C4p5T0nE_0R_qeMU_5ubPR0cE55_0r_F0r90TTen_0Ld_R45berry_4NyTH1N9_BUt_n0_M4nu4LLy}`
 
 ---
 ## 🔍 Challenge Description
