@@ -58,3 +58,5 @@ This helps users gradually level up their skills and tackle more advanced scenar
 ---
 
 _💡 Pro Tip: Regularly doing HTB Labs challenges helps you sharpen your skills for real-world pentesting, red teaming, and certifications like OSCP._
+
+[[HTB Labs]]

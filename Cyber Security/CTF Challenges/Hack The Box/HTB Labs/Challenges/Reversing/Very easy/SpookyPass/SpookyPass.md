@@ -162,4 +162,4 @@ This was a beginner-friendly reverse engineering challenge. Since the binary was
 #ReverseEngineering #Spookypass #BinaryExploitation #HackTheBox #CTF 
 
 
-[[README]] 
+[[Reverse Engineering]]

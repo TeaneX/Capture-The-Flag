@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Challenges.md",
+                "file": "Cyber Security/CTF Challenges/Hack The Box/Hack The Box.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Challenges"
+              "title": "Hack The Box"
             }
           }
         ]
@@ -161,13 +161,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Challenges.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Challenges"
+              "title": "Outline"
             }
           },
           {
@@ -215,17 +214,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5dc2c5151a3626d",
+  "active": "f10599855ba0f336",
   "lastOpenFiles": [
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Easy/Cyberpsychosis/Cyberpsychosis.md",
+    "Cyber Security/CTF Challenges/Hack The Box/Hack The Box.md",
+    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/HTB Labs.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Challenges.md",
+    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Reverse Engineering.md",
+    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/SpookyPass/SpookyPass.md",
+    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Simple Encryptor/Simple Encryptor.md",
+    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Behind the Scenes/Behind the Scences.md",
+    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Easy/Cyberpsychosis/Cyberpsychosis.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Easy/ARMs Race/ARMs Race.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Easy/Cyberpsychosis",
     "README.md",
     "conflict-files-obsidian-git.md",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/SpookyPass/SpookyPass.md",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Simple Encryptor/Simple Encryptor.md",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Behind the Scenes/Behind the Scences.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Easy/ARMs Race",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Easy",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Utitled",

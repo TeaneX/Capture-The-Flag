@@ -168,4 +168,4 @@ By connecting to the remote system via Netcat, we confirmed root access and obse
 
 #ReverseEngineering #Cyberpsychosis #HackTheBox #CTF 
 
-[[README]]
+[[Reverse Engineering]]
