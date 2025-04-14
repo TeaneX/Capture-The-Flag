@@ -14,7 +14,7 @@
 **Input:**
 
 ```bash
-teanex@kali:~/Downloads/HTB$ nc 83.136.251.68 34737
+nc 83.136.251.68 34737
 ```
 
 **Output:**
@@ -50,7 +50,7 @@ At each level, we receive the hex-encoded ARM shellcode, compute the result for 
 
 **Input:**
 ```bash
-teanex@kali:~/Downloads/HTB$ nano ARMS.py 
+nano ARMS.py 
 ```
 ### 📄 `ARMS.py`
 ```py
@@ -140,7 +140,7 @@ if __name__ == "__main__":
 
 **Input:**
 ```bash
-teanex@kali:~/Downloads/HTB$ python3 ARMS.py
+python3 ARMS.py
 ```
 
 **Output:**
