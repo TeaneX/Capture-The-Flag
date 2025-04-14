@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "962cb6bc58229121",
+        "id": "822424e072c01dec",
         "type": "tabs",
         "children": [
           {
-            "id": "c5dc2c5151a3626d",
+            "id": "7c9a31b46eafd3b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/CTF Challenges/Hack The Box/Hack The Box.md",
+                "file": "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/Cap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hack The Box"
+              "title": "Cap"
             }
           }
         ]
@@ -216,8 +216,12 @@
   },
   "active": "f10599855ba0f336",
   "lastOpenFiles": [
-    "Cyber Security/CTF Challenges/Hack The Box/Hack The Box.md",
+    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/Cap.md",
+    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Machines.md",
+    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap",
+    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/HTB Labs.md",
+    "Cyber Security/CTF Challenges/Hack The Box/Hack The Box.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Challenges.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Reverse Engineering.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/SpookyPass/SpookyPass.md",
@@ -243,8 +247,6 @@
     "Cyber Security/Untitled",
     "strings pass 1.md",
     "Cyber Security/README.md",
-    "Cyber Security",
-    "Cyber Security",
     "Cyber/README.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/SpookyPass/🕵️‍♂️ HTB Challenge - SpookyPass.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/SpookyPass/PNG/strings pass.png",
