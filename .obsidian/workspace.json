@@ -161,17 +161,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/SpookyPass/SpookyPass.md",
+                "file": "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Easy/Cyberpsychosis/Cyberpsychosis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SpookyPass"
+              "title": "Outline of Cyberpsychosis"
             }
           },
           {
-            "id": "213e630b1e7780ef",
+            "id": "a360a18bd86e8ffb",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -215,7 +215,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4f946bacdfc48ce",
+  "active": "7308765415881589",
   "lastOpenFiles": [
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Easy/ARMs Race/ARMs Race.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Easy/Cyberpsychosis/Cyberpsychosis.md",
