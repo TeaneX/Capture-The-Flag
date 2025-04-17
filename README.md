@@ -4,7 +4,7 @@
 
 >Welcome to my collection of CTF (Capture The Flag) writeups!  
 
-This repository includes solutions, notes, and explanations for various challenges I've solved on platforms like [Hack The Box](https://www.hackthebox.com/), [TryHackMe](https://tryhackme.com/), and [PicoCTF](https://picoctf.org/).
+>This repository includes solutions, notes, and explanations for various challenges I've solved on platforms like [Hack The Box](https://www.hackthebox.com/), [TryHackMe](https://tryhackme.com/), and [PicoCTF](https://picoctf.org/).
 
 ---
 ## 📁 Repository Structure
