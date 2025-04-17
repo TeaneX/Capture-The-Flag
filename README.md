@@ -2,11 +2,12 @@
 
 ![Hacker Banner](https://camo.githubusercontent.com/514f682a0b43a9422eee5d9e1d81ef2b7c866247575a96f1080913870d87f0e9/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633)
 
+---
+
 >Welcome to my collection of CTF (Capture The Flag) writeups!  
 
 >This repository includes solutions, notes, and explanations for various challenges I've solved on platforms like [Hack The Box](https://www.hackthebox.com/), [TryHackMe](https://tryhackme.com/), and [PicoCTF](https://picoctf.org/).
 
----
 ## 📁 Repository Structure
 
 Each folder corresponds to a specific CTF room or challenge and contains:
@@ -22,7 +23,6 @@ Here are some of the rooms/challenges I've worked on:
 - 🌐 `TryHackMe`
 - 🧮 `PicoCTF`
 
-*(Replace these with your real writeups and descriptions!)*
 
 ## 🛠 Tools Used
 
