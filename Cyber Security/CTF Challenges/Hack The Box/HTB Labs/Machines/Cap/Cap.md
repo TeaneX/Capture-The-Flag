@@ -259,6 +259,7 @@ cat root.txt
 ---
 ## 🏷️ Tags
 
-#ReverseEngineering #Cap #linux #wireshark #BinaryExploitation #HackTheBox #CTF  
+#Cap #linux #wireshark #HackTheBox #Web_Exploitation #Insecure_Direct_Object_Reference(IDOR) #Packet_Capture_Analysis #FTP_Enumeration #Linux_Capabilities #Machines 
+
 
 [[Machines]]
