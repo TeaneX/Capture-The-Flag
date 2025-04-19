@@ -226,4 +226,24 @@ Regardless of the language, there are some fundamental programming concepts you'
 
 Learning a programming language is a rewarding journey. Whether you're building websites, automating tasks, or developing complex systems, mastering a programming language opens up endless possibilities. The key is to start simple, practice regularly, and gradually build up your knowledge and skills. The more you code, the better you'll get!
 
+## 🏷️ Tags
+#Programming_Languages #Learn_to_Code #ProgrammingLanguages
+
+## #Python
+## #JavaScript
+## #Java
+## #C++
+## #Ruby
+## #Go
+## #Swift
+## #PHP
+## #TypeScript
+## #Kotlin
+## #Rust
+## #R
+## #HTML
+## #CSS
+## #SQL #ShellScript #Perl #Lua #Scala #Dart #MATLAB
+
+
 [[README]]
