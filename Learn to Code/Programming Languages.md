@@ -72,6 +72,7 @@ Learning programming languages is essential for:
   greet("Alice")
 ```
 
+
 ### JavaScript 🌐
 
 - **Best for**: Web Development (Frontend and Backend).
