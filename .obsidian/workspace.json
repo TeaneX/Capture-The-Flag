@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Challenges.md",
+                "file": "Learn to Code/Programming Languages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Challenges"
+              "title": "Programming Languages"
             }
           }
         ]
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Challenges.md",
+                "file": "Learn to Code/Programming Languages.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Challenges"
+              "title": "Outline of Programming Languages"
             }
           },
           {
@@ -215,8 +215,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec69656b53acffc3",
+  "active": "e4f946bacdfc48ce",
   "lastOpenFiles": [
+    "Learn to Code/HTML",
+    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Challenges.md",
+    "Learn to Code/Programming Languages.md",
+    "Learn to Code",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Veary Easy/The Last Dance/The Last Dance.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Crypto.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/SpookyPass/SpookyPass.md",
@@ -229,7 +233,6 @@
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Mobile/Mobile.md",
     "README.md",
     "Cyber Security/CTF Challenges/Hack The Box/Hack The Box.md",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Challenges.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Mobile/Easy/APKey",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Mobile/Easy",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Mobile",
@@ -247,7 +250,6 @@
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Reverse Engineering.md",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Easy/Cyberpsychosis",
     "conflict-files-obsidian-git.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Behind the Scenes/Png/Behind the Scenes 4.png",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Behind the Scenes/Png/Behind the Scenes 3 .png",
