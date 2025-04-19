@@ -158,3 +158,5 @@ HTB Crypto challenges offer a comprehensive range of cryptography problems, from
 ## Tags
 
 #HTBCrypto #Cryptography #CryptoChallenges #HackTheBox #CTF #Encryption #Decryption #CryptoAnalysis
+
+[[Challenges]] 
