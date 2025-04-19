@@ -65,6 +65,7 @@ Learning programming languages is essential for:
   - Simple and clean syntax.
   - Great for rapid development.
   - Extensive libraries and frameworks.
+
 - **Example Code**:
   ```python
   def greet(name):
