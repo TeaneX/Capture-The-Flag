@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/CTF Challenges/CTF Challenges.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CTF Challenges"
+              "title": "README"
             }
           }
         ]
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/CTF Challenges/CTF Challenges.md",
+                "file": "README.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CTF Challenges"
+              "title": "Outline of README"
             }
           },
           {
@@ -217,14 +217,16 @@
   },
   "active": "ec69656b53acffc3",
   "lastOpenFiles": [
+    "Cyber Security/CTF Challenges/Hack The Box/Hack The Box.md",
     "Cyber Security/CTF Challenges/CTF Challenges.md",
-    "Learn to Code/HTML/HTML Introduction/HTML Introduction.md",
-    "Learn to Code/HTML/HTML Introduction/HTML Intro PNG/HTML 1.png",
+    "[CTF Challenges.md",
     "Learn to Code/HTML/HTML.md",
-    "Learn to Code/HTML/HTML Introduction/HTML Intro PNG",
-    "Learn to Code/HTML/HTML Introduction",
     "Learn to Code/Programming Languages.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Veary Easy/The Last Dance/The Last Dance.md",
+    "Learn to Code/HTML/HTML Introduction/HTML Introduction.md",
+    "Learn to Code/HTML/HTML Introduction/HTML Intro PNG/HTML 1.png",
+    "Learn to Code/HTML/HTML Introduction/HTML Intro PNG",
+    "Learn to Code/HTML/HTML Introduction",
     "Learn to Code/HTML",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Challenges.md",
     "Learn to Code",
@@ -238,7 +240,6 @@
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/Cap.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Mobile/Mobile.md",
     "README.md",
-    "Cyber Security/CTF Challenges/Hack The Box/Hack The Box.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Mobile/Easy/APKey",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Mobile/Easy",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Mobile",
@@ -262,7 +263,6 @@
     "strings pass 1.md",
     "Cyber Security/README.md",
     "Cyber/README.md",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/SpookyPass/🕵️‍♂️ HTB Challenge - SpookyPass.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

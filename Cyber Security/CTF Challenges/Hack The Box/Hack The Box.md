@@ -66,4 +66,6 @@ Earn points and rank up as you solve machines and challenges:
 
 > 💡 **Tip**: Use Obsidian to document every challenge you solve—it becomes your personal hacking knowledge base.
 
-[[README]] 
+[[CTF Challenges]]
+
+

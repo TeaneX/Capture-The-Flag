@@ -56,3 +56,8 @@ A **CTF (Capture The Flag)** is a cybersecurity competition where players solve 
 - [HackTricks](https://book.hacktricks.xyz)
 - [Awesome CTF GitHub](https://github.com/apsdehal/awesome-ctf)
 
+## 🏷️ Tags
+
+#CTF #CTF_Challenges #Hack_The_Box #PICO_CTF #Try_Hack_ME 
+
+[[README]]
