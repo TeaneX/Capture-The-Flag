@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Veary Easy/The Last Dance/The Last Dance.md",
+                "file": "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Crypto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Last Dance"
+              "title": "Crypto"
             }
           }
         ]
@@ -215,8 +215,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f10599855ba0f336",
+  "active": "9defa875d9017957",
   "lastOpenFiles": [
+    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/HTB Labs.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Veary Easy/The Last Dance/The Last Dance.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Crypto.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/SpookyPass/SpookyPass.md",
@@ -241,7 +242,6 @@
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/PNG/cap 1.png",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/PNG",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Machines.md",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/HTB Labs.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Simple Encryptor/Simple Encryptor.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Easy/Cyberpsychosis/Cyberpsychosis.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap",
