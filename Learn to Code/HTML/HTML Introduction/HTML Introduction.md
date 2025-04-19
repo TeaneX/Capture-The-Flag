@@ -106,6 +106,9 @@ Below is a visualization of an HTML page structure:
 </html>
 ```
 
-
 Note: The content inside the `<body>` section will be displayed in a browser. The content inside the `<title>` element will be shown in the browser's title bar or in the page's tab.
 
+## 🏷️ Tags
+#Programming_Languages #Learn_to_Code  #HTML_Intoduction #HTML 
+
+[[HTML]]
