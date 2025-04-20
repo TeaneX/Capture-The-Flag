@@ -2,7 +2,7 @@
 
 ---
 
-> Welcome to my collection of CTF (Capture The Flag) writeups!
+**==Welcome to my collection of CTF (Capture The Flag) writeups and programming language learning resources.==**
 
 > This vault includes solutions, notes, and techniques used to solve challenges from platforms like [Hack The Box](https://www.hackthebox.com/), [TryHackMe](https://tryhackme.com/), and [PicoCTF](https://picoctf.org/).
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn to Code/HTML/HTML Introduction/HTML Introduction.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML Introduction"
+              "title": "README"
             }
           }
         ]
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn to Code/HTML/HTML Introduction/HTML Introduction.md",
+                "file": "README.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HTML Introduction"
+              "title": "Outline of README"
             }
           },
           {
@@ -215,11 +215,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4f946bacdfc48ce",
+  "active": "d56b0253775836d8",
   "lastOpenFiles": [
-    "Learn to Code/HTML/HTML Introduction/HTML Intro PNG/HTML 1.png",
-    "Learn to Code/HTML/HTML Introduction/HTML Intro PNG/HTML 1.png",
     "Learn to Code/HTML/HTML Introduction/HTML Introduction.md",
+    "Learn to Code/HTML/HTML Introduction/HTML Intro PNG/HTML 1.png",
+    "Learn to Code/HTML/HTML Introduction/HTML Intro PNG/HTML 1.png",
     "Learn to Code/HTML/HTML Editors/HTML Edit PNG/Pasted image 20250420201634.png",
     "Learn to Code/HTML/HTML Editors/HTML Editors.md",
     "Learn to Code/Programming Languages.md",
@@ -256,7 +256,6 @@
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/PNG/cap 5.png",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/PNG/cap 4.png",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/PNG/cap 3.png",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/PNG/cap 2.png",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Machines.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Simple Encryptor/Simple Encryptor.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Easy/Cyberpsychosis/Cyberpsychosis.md",
