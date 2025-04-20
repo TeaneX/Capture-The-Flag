@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "b5240bd4b7d13114",
+        "id": "650b068eaede2b5c",
         "type": "tabs",
         "children": [
           {
-            "id": "e272a69414338972",
+            "id": "c46b4e8f58ff4424",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Veary Easy/BabyEncryption/BabyEncryption.md",
+                "file": "Learn to Code/HTML/HTML Introduction/HTML Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BabyEncryption"
+              "title": "HTML Introduction"
+            }
+          },
+          {
+            "id": "d56b0253775836d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn to Code/HTML/HTML Editors/HTML Editors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTML Editors"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Veary Easy/BabyEncryption/BabyEncryption.md",
+                "file": "Learn to Code/HTML/HTML Editors/HTML Editors.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BabyEncryption"
+              "title": "Outline of HTML Editors"
             }
           },
           {
@@ -215,9 +230,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e272a69414338972",
+  "active": "d56b0253775836d8",
   "lastOpenFiles": [
+    "Learn to Code/HTML/HTML Introduction/HTML Introduction.md",
+    "Learn to Code/HTML/HTML Editors/HTML Editors.md",
+    "Learn to Code/HTML/HTML Editors/HTML Edit PNG/Pasted image 20250420201634.png",
+    "Learn to Code/HTML/HTML Editors/HTML Edit PNG/Pasted image 20250420201325.png",
+    "Pasted image 20250420201405.png",
+    "Learn to Code/HTML/HTML Editors/HTML Edit PNG/Untitled.md",
+    "Learn to Code/HTML/HTML Editors/HTML Edit PNG",
+    "Learn to Code/HTML/HTML Editors/HTML Edit PNG/Pasted image 20250420201154.png",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Veary Easy/BabyEncryption/BabyEncryption.md",
+    "Learn to Code/HTML/HTML Editors",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Veary Easy/The Last Dance/The Last Dance.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Veary Easy/BabyEncryption",
     "Learn to Code/Programming Languages.md",
@@ -226,7 +250,6 @@
     "Cyber Security/CTF Challenges/CTF Challenges.md",
     "[CTF Challenges.md",
     "Learn to Code/HTML/HTML.md",
-    "Learn to Code/HTML/HTML Introduction/HTML Introduction.md",
     "Learn to Code/HTML/HTML Introduction/HTML Intro PNG/HTML 1.png",
     "Learn to Code/HTML/HTML Introduction/HTML Intro PNG",
     "Learn to Code/HTML/HTML Introduction",
@@ -242,27 +265,18 @@
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/Cap.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Mobile/Mobile.md",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Mobile/Easy/APKey",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Mobile/Easy",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Behind the Scenes/Behind the Scences.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/PNG/Pasted image 20250415204818.png",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/PNG/cap 5.png",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/PNG/cap 4.png",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/PNG/cap 3.png",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/PNG/cap 2.png",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/PNG/cap 1.png",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Machines.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Simple Encryptor/Simple Encryptor.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Easy/Cyberpsychosis/Cyberpsychosis.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Reverse Engineering.md",
     "conflict-files-obsidian-git.md",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Behind the Scenes/Png/Behind the Scenes 4.png",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Behind the Scenes/Png/Behind the Scenes 3 .png",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Behind the Scenes/Png/Behind the Scenes 2.png",
     "2025-04-10.md",
-    "Cyber Security/CTF Challenges/PICO CTF/Pico.md",
-    "strings pass 1.md",
-    "Cyber Security/README.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
