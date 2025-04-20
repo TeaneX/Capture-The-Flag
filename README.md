@@ -36,4 +36,10 @@ All CTF-specific knowledge is logged here. Language-specific code or syntax is k
 These writeups are for educational purposes only.  
 Never attempt unauthorized testing on systems you do not own or have explicit permission to test.
 
+### 📬 Contact Me
+
+- 📧 Email: [Teanex99@gmail.com](mailto:Teanex99@gmail.com)
+
+- 💬 Discord: [TeaneX](https://discord.com/users/1280419086316081247)
+
 ---
