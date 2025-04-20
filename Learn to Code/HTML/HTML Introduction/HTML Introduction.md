@@ -84,6 +84,7 @@ Note: Some HTML elements have no content (like the `<br>` element). These elemen
 The purpose of a web browser (Chrome, Edge, Firefox, Safari) is to read HTML documents and display them correctly.
 
 A browser does not display the HTML tags, but uses them to determine how to display the document:
+
  ![[HTML 1.png]] 
 
 ## 🧱HTML Page Structure
