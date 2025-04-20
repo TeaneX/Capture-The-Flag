@@ -11,10 +11,14 @@
             "id": "e272a69414338972",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Veary Easy/BabyEncryption/BabyEncryption.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BabyEncryption"
             }
           }
         ]
@@ -157,12 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Veary Easy/BabyEncryption/BabyEncryption.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of BabyEncryption"
             }
           },
           {
