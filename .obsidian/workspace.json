@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn to Code/JavaScript/JavaScript.md",
+                "file": "Cyber Security/Cyber Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "Cyber Security"
             }
           }
         ]
@@ -161,12 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Cyber Security/Cyber Security.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Cyber Security"
             }
           }
         ],
@@ -204,8 +205,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f10599855ba0f336",
+  "active": "0fdfe8c1507360d5",
   "lastOpenFiles": [
+    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Veary Easy/BabyEncryption/BabyEncryption.md",
+    "Cyber Security/Kali Linux/Kali Linux Commands/Kali Linux Commands for Hackers.md",
+    "Cyber Security/Kali Linux/Kali Linux.md",
+    "Cyber Security/Cyber Security.md",
+    "Learn to Code/HTML/1. HTML Introduction/HTML Introduction.md",
+    "Cyber Security/CTF Challenges/CTF Challenges.md",
+    "Cyber Security/Kali Linux",
+    "Cyber Security/Kali Linux/Kali Linux Commands",
     "Learn to Code/JavaScript/JavaScript.md",
     "Learn to Code/CSS/CSS.md",
     "Learn to Code/Untitled/Untitled.canvas",
@@ -214,7 +223,6 @@
     "Learn to Code/CSS",
     "Learn to Code/HTML/4. HTML Elements/HTML Elements.md",
     "Learn to Code/HTML/3. HTML Basic/HTML Basic.md",
-    "Learn to Code/HTML/1. HTML Introduction/HTML Introduction.md",
     "Learn to Code/HTML/4. HTML Elements",
     "Learn to Code/HTML/2. HTML Editors/HTML Editors.md",
     "Learn to Code/Programming Languages.md",
@@ -222,7 +230,6 @@
     "Learn to Code/HTML/3. HTML Basic",
     "Cyber Security/CTF Challenges/Hack The Box/Hack The Box.md",
     "README.md",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Veary Easy/BabyEncryption/BabyEncryption.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Veary Easy/The Last Dance/The Last Dance.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Easy/ARMs Race/ARMs Race.md",
     "strings pass 1.md",
@@ -238,17 +245,11 @@
     "Learn to Code/HTML/2. HTML Editors/HTML Edit PNG/Pasted image 20250420201154.png",
     "Learn to Code/HTML/2. HTML Editors",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Veary Easy/BabyEncryption",
-    "Cyber Security/CTF Challenges/CTF Challenges.md",
     "[CTF Challenges.md",
-    "Learn to Code/HTML/1. HTML Introduction/HTML Intro PNG",
-    "Learn to Code/HTML/1. HTML Introduction",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Challenges.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Crypto.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/SpookyPass/SpookyPass.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/HTB Labs.md",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/Cap.md",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Mobile/Mobile.md",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Behind the Scenes/Behind the Scences.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/PNG/Pasted image 20250415204818.png",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/PNG/cap 5.png",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/PNG/cap 4.png",
