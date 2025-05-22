@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn to Code/HTML/1. HTML Introduction/HTML Introduction.md",
+                "file": "Learn to Code/HTML/4. HTML Elements/HTML Elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML Introduction"
+              "title": "HTML Elements"
             }
           }
         ]
@@ -161,13 +161,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn to Code/HTML/1. HTML Introduction/HTML Introduction.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HTML Introduction"
+              "title": "Outline"
             }
           }
         ],
@@ -205,10 +204,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0fdfe8c1507360d5",
+  "active": "f10599855ba0f336",
   "lastOpenFiles": [
-    "Learn to Code/HTML/1. HTML Introduction/HTML Introduction.md",
+    "Learn to Code/HTML/4. HTML Elements/HTML Elements.md",
     "Learn to Code/HTML/3. HTML Basic/HTML Basic.md",
+    "Learn to Code/HTML/1. HTML Introduction/HTML Introduction.md",
+    "Learn to Code/HTML/4. HTML Elements",
     "Learn to Code/HTML/2. HTML Editors/HTML Editors.md",
     "Learn to Code/Programming Languages.md",
     "Learn to Code/HTML/3. HTML Basic/HTML Basic PNG",
@@ -242,7 +243,6 @@
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Crypto.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/SpookyPass/SpookyPass.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/HTB Labs.md",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Veary Easy",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/Cap.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Mobile/Mobile.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Behind the Scenes/Behind the Scences.md",
@@ -252,7 +252,6 @@
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/PNG/cap 3.png",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Machines.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/Simple Encryptor/Simple Encryptor.md",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Easy/Cyberpsychosis/Cyberpsychosis.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
