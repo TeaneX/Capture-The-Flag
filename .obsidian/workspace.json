@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Cyber Security.md",
+                "file": "Cyber Security/Wifi Hacking/Wi-Fi Hacking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cyber Security"
+              "title": "Wi-Fi Hacking"
             }
           }
         ]
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Cyber Security.md",
+                "file": "Cyber Security/Wifi Hacking/Wi-Fi Hacking.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cyber Security"
+              "title": "Outline of Wi-Fi Hacking"
             }
           }
         ],
@@ -207,10 +207,14 @@
   },
   "active": "0fdfe8c1507360d5",
   "lastOpenFiles": [
+    "Cyber Security/Cyber Security.md",
+    "Cyber Security/Wifi Hacking/Wi-Fi Hacking.md",
+    "Cyber Security/Wifi Hacking/Bettercap/Bettercap.md",
+    "Cyber Security/Kali Linux/Kali Linux.md",
+    "Cyber Security/Wifi Hacking/Bettercap",
+    "Cyber Security/Wifi Hacking",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Veary Easy/BabyEncryption/BabyEncryption.md",
     "Cyber Security/Kali Linux/Kali Linux Commands/Kali Linux Commands for Hackers.md",
-    "Cyber Security/Kali Linux/Kali Linux.md",
-    "Cyber Security/Cyber Security.md",
     "Learn to Code/HTML/1. HTML Introduction/HTML Introduction.md",
     "Cyber Security/CTF Challenges/CTF Challenges.md",
     "Cyber Security/Kali Linux",
@@ -243,13 +247,9 @@
     "Learn to Code/HTML/HTML Editors/HTML Edit PNG/Untitled.md",
     "Learn to Code/HTML/2. HTML Editors/HTML Edit PNG",
     "Learn to Code/HTML/2. HTML Editors/HTML Edit PNG/Pasted image 20250420201154.png",
-    "Learn to Code/HTML/2. HTML Editors",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Veary Easy/BabyEncryption",
     "[CTF Challenges.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Challenges.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Crypto.md",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Reversing/Very easy/SpookyPass/SpookyPass.md",
-    "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/HTB Labs.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/PNG/Pasted image 20250415204818.png",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/PNG/cap 5.png",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Machines/Cap/PNG/cap 4.png",
