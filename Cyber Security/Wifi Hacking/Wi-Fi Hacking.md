@@ -141,3 +141,5 @@ Stay curious, stay ethical.
 ## 🏷️ Tags
 
 #Cyber_Security #Kali_Linux #Wifi_Hacking 
+
+[[Cyber Security]]

@@ -160,4 +160,6 @@ When the victim browses `example.com`, they are redirected to `192.168.0.100`.
 ---
 ## 🏷️ Tags
 
-#Cyber_Security #Kali_Linux #Wifi_Hacking 
+#Cyber_Security #Kali_Linux #Wifi_Hacking #Buttercap
+
+[[Wi-Fi Hacking]]
