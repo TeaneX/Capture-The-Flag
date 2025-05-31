@@ -2,7 +2,7 @@
 
 ---
 
-**==Welcome to my collection of CTF (Capture The Flag) writeups and programming language learning resources.==**
+**==Welcome to my collection of CTF (Capture The Flag) writeups==**
 
 > This vault includes solutions, notes, and techniques used to solve challenges from platforms like [Hack The Box](https://www.hackthebox.com/), [TryHackMe](https://tryhackme.com/), and [PicoCTF](https://picoctf.org/).
 
@@ -26,10 +26,6 @@ Each CTF folder typically contains:
 - Exploitation: Python, Bash  
 - Reverse/Pwn: Ghidra, GDB, pwndbg  
 - Custom scripts and notes (see programming section for language details)
-
-## 🧠 Notes & References
-
-All CTF-specific knowledge is logged here. Language-specific code or syntax is kept in your [Programming Notes] vault section for easier reuse.
 
 ## ⚠️ Disclaimer
 
