@@ -103,26 +103,9 @@
     "type": "split",
     "children": [
       {
-        "id": "b661cfe138fb8bf5",
-        "type": "tabs",
-        "dimension": 28.94417475728155,
-        "children": [
-          {
-            "id": "099d9b470d6e276a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ]
-      },
-      {
         "id": "9d0f5af751bd43a2",
         "type": "tabs",
-        "dimension": 28.94417475728155,
+        "dimension": 42.370129870129865,
         "children": [
           {
             "id": "479f1bc3a45a0104",
@@ -178,13 +161,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Obsidian.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Obsidian"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "534c79d78ad92ce8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -193,7 +185,7 @@
       {
         "id": "b46591826a2e14f5",
         "type": "tabs",
-        "dimension": 42.1116504854369,
+        "dimension": 57.62987012987013,
         "children": [
           {
             "id": "7c7b451ba641adc5",
@@ -222,10 +214,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0fdfe8c1507360d5",
+  "active": "f10599855ba0f336",
   "lastOpenFiles": [
-    "Learn to Code/Programming Languages.md",
     "Obsidian/Obsidian.md",
+    "Learn to Code/Programming Languages.md",
     "Obsidian",
     "Learn to Code 1/HTML/2. HTML Editors/HTML Edit PNG/Pasted image 20250420201634.png",
     "Learn to Code 1/HTML/2. HTML Editors/HTML Edit PNG/Pasted image 20250420201325.png",
