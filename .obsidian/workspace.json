@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Cyber Security/ISM/Information Security Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Information Security Management"
             }
           }
         ]
@@ -105,7 +105,7 @@
       {
         "id": "9d0f5af751bd43a2",
         "type": "tabs",
-        "dimension": 42.370129870129865,
+        "dimension": 42.37012987012988,
         "children": [
           {
             "id": "479f1bc3a45a0104",
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Cyber Security/ISM/Information Security Management.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Information Security Management"
             }
           },
           {
@@ -186,7 +186,7 @@
       {
         "id": "b46591826a2e14f5",
         "type": "tabs",
-        "dimension": 57.62987012987013,
+        "dimension": 57.62987012987012,
         "children": [
           {
             "id": "7c7b451ba641adc5",
@@ -217,6 +217,12 @@
   },
   "active": "0fdfe8c1507360d5",
   "lastOpenFiles": [
+    "Cyber Security/ISM/Steps to Implement ISMS/Steps to Implement ISMS.md",
+    "Cyber Security/Cyber Security.md",
+    "Cyber Security/ISM/Information Security Management.md",
+    "Cyber Security/ISM/Steps to Implement ISMS",
+    "README.md",
+    "Cyber Security/ISM",
     "Obsidian/Obsidian.md",
     "Learn to Code/Programming Languages.md",
     "Obsidian",
@@ -239,13 +245,10 @@
     "Learn to Code 1/CSS/CSS.md",
     "Learn to Code 1/Programming Languages.md",
     "Learn to Code 1/JavaScript",
-    "Learn to Code 1/HTML",
-    "Learn to Code 1/CSS",
     "Cyber Security/Kali Linux/Kali Linux Commands/Kali Linux Commands for Hackers.md",
     "Cyber Security/Wifi Hacking/Bettercap/Bettercap.md",
     "Cyber Security/Wifi Hacking/Bettercap/Bettercap — Lab Walkthrough.md",
     "Cyber Security/Wifi Hacking/Wi-Fi Hacking.md",
-    "Cyber Security/Cyber Security.md",
     "Cyber Security/Kali Linux/Kali Linux.md",
     "Cyber Security/CTF Challenges/Hack The Box/HTB Labs/Challenges/Crypto/Veary Easy/BabyEncryption/BabyEncryption.md",
     "Learn to Code/HTML/1. HTML Introduction/HTML Introduction.md",
@@ -255,9 +258,6 @@
     "Learn to Code/Untitled/Untitled.canvas",
     "Learn to Code/HTML/HTML.md",
     "Learn to Code/HTML/4. HTML Elements/HTML Elements.md",
-    "Learn to Code/HTML/3. HTML Basic/HTML Basic.md",
-    "Learn to Code/HTML/2. HTML Editors/HTML Editors.md",
-    "Cyber Security/CTF Challenges/Hack The Box/Hack The Box.md",
     "Learn to Code/HTML/1. HTML Introduction/HTML Intro PNG/HTML 1.png",
     "Learn to Code/HTML/1. HTML Introduction/HTML Intro PNG/HTML 1.png",
     "Learn to Code/HTML/2. HTML Editors/HTML Edit PNG/Pasted image 20250420201634.png",
